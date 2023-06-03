@@ -1,6 +1,6 @@
 # django-to_do-react
 
-## Open a terminal and run the comands: 
+## Open a terminal (in the folder directory) and run the comands: 
 
 pipenv shell
 
@@ -10,7 +10,7 @@ python backend/manage.py runserver
 
 ### Do not close the terminal
 
-## Open another terminal and run the comands:
+## Open another terminal (in the folder directory) and run the comands:
 
 pipenv shell
 
