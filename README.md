@@ -8,6 +8,7 @@ pipenv install django
 
 python backend/manage.py runserver
 
+#### Do not close the terminal
 
 ## Open another terminal and run the comands:
 
