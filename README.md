@@ -30,8 +30,7 @@ npm install bootstrap@4.6.0 reactstrap@8.9.0 --legacy-peer-deps
 
 cd frontend; npm start
 
-### If you have an error installing bootstrap and reactstrap you must 
-### need to run again the following commands:
+### If you have an error installing bootstrap and reactstrap you must need to run again the following commands:
 
 npm install bootstrap@4.6.0 reactstrap@8.9.0 --legacy-peer-deps
 
